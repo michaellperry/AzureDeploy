@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/michaellperry/AzureDeploy#readme",
   "dependencies": {
+    "jinaga": "^1.2.1",
     "mongo": "^0.1.0"
   }
 }
