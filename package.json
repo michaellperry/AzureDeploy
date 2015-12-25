@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaellperry/AzureDeploy/issues"
   },
-  "homepage": "https://github.com/michaellperry/AzureDeploy#readme"
+  "homepage": "https://github.com/michaellperry/AzureDeploy#readme",
+  "dependencies": {
+    "mongo": "^0.1.0"
+  }
 }
