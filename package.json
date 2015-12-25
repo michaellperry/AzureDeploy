@@ -1,0 +1,19 @@
+{
+  "name": "azuredeploy",
+  "version": "1.0.0",
+  "description": "Test Azure deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michaellperry/AzureDeploy.git"
+  },
+  "author": "Michael L Perry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaellperry/AzureDeploy/issues"
+  },
+  "homepage": "https://github.com/michaellperry/AzureDeploy#readme"
+}
