@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/michaellperry/AzureDeploy#readme",
   "dependencies": {
+    "body-parser": "^1.14.2",
+    "bower": "^1.7.1",
+    "chain-middleware": "^1.0.1",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
     "express": "^4.13.3",
     "express-session": "^1.12.1",
     "jinaga": "^1.2.1",
