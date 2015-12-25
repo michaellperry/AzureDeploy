@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/michaellperry/AzureDeploy#readme",
   "dependencies": {
+    "express": "^4.13.3",
     "express-session": "^1.12.1",
     "jinaga": "^1.2.1",
     "jsonwebtoken": "^5.4.1",
